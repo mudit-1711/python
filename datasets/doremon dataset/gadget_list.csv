@@ -1,0 +1,501 @@
+gadget_name_original,gadget_name_english,first_appearance_episode,function,used_by,main_user,category,success_rate,failure_rate,is_recurring,notes
+どこでもドア,Anywhere Door,1,Teleports users to any location instantly,"Nobita, Doraemon, friends",Nobita,Transportation,95,5,Yes,Most iconic; rarely fails unless misused
+タケコプター,Hopter,2,Propeller for personal flight,"Nobita, Gian, Suneo",Nobita,Transportation,70,30,Yes,Fails due to low battery or clumsiness
+タイムマシン,Time Machine,5,Travels through time,"Nobita, Doraemon",Nobita,Time Travel,90,10,Yes,Kept in Nobita's desk drawer
+暗記パン,Memory Bread,10,Absorbs text when pressed on book pages,Nobita,Nobita,Education,60,40,No,Often eaten before use
+空気砲,Air Cannon,15,Shoots compressed air as a weapon,"Nobita, Gian",Gian,Weapon,85,15,Yes,Used against bullies
+ほんやくコンニャク,Translation Gummy,20,Translates any language,"Nobita, Doraemon",Nobita,Daily Life,99,1,Yes,Highly reliable
+タイムふろしき,Time Kerchief,25,Repairs or reverts objects when wrapped,Nobita,Nobita,Daily Life,80,20,Yes,Misuse ages/de-ages objects
+通り抜けフープ,Pass Loop,30,Walk through walls,Nobita,Nobita,Daily Life,75,25,No,Gets stuck occasionally
+ショックガン,Shock Gun,35,Forces target to obey commands,"Nobita, Gian",Nobita,Weapon,50,50,No,Often backfires
+雲かためガス,Cloud Solidifier,40,Turns clouds into solid platforms,"Nobita, Suneo",Nobita,Transportation,65,35,No,Requires clear skies
+スモールライト,Small Light,45,Shrinks objects/people,"Nobita, Doraemon",Nobita,Transformation,88,12,Yes,Used for stealth
+ビッグライト,Big Light,50,Enlarges objects/people,Nobita,Nobita,Transformation,85,15,Yes,Causes chaos if misused
+タイムテレビ,Time TV,55,Watches past/future events,Nobita,Nobita,Time Travel,95,5,Yes,Rarely fails
+人間よけスプレー,Human Repellent Spray,60,Makes user invisible to people,Nobita,Nobita,Stealth,70,30,No,Wears off quickly
+ガリバートンネル,Gulliver Tunnel,65,Shrinks/grows objects passing through,Nobita,Nobita,Transformation,80,20,Yes,Used for mini-adventures
+コベヤッター,Come Here Catcher,70,Teleports objects to user,Nobita,Nobita,Daily Life,75,25,No,Misses target sometimes
+立体映像ミラー,3D Projector Mirror,75,Creates lifelike holograms,"Suneo, Nobita",Suneo,Entertainment,90,10,No,Used for pranks
+サウンドカメラ,Sound Camera,80,Captures and replays sounds,Nobita,Nobita,Daily Life,65,35,No,Limited recordings
+ネコジャラシ,Cat Caller,85,Summons cats with a whistle,Doraemon,Doraemon,Animal,100,0,No,Only works on cats
+スーパー手ぶくろ,Super Gloves,90,Grants super strength,"Gian, Nobita",Gian,Power,95,5,Yes,Often used for bullying
+エアカー,Air Car,95,Flying car powered by air,"Nobita, Doraemon",Nobita,Transportation,60,40,No,Crashes often
+四次元ポケット,4D Pocket,-,Stores infinite gadgets,Doraemon,Doraemon,Special,100,0,Yes,Pocket dimension
+ひみつ道具製造機,Gadget Maker,100,Creates custom gadgets,Doraemon,Doraemon,Special,30,70,No,Often produces defective gadgets
+のび太のパパも使った,Nobita's Dad's Used Gadget,105,Random old gadgets,Nobita's Dad,Nobita,Vintage,40,60,No,Unreliable
+悪魔のパスポート,Devil's Passport,110,Grants unlimited wishes,Nobita,Nobita,Power,20,80,No,Causes unintended consequences
+ジャイアンズスーパーよびよせ,Gian's Super Summoner,115,Summons Gian forcibly,Gian,Gian,Weapon,100,0,No,Used for intimidation
+サバイバルフーズ,Survival Food,120,Tiny food that expands,Nobita,Nobita,Survival,95,5,Yes,Used in emergencies
+トキメキメーター,Excitement Meter,125,Measures excitement level,"Shizuka, Nobita",Shizuka,Daily Life,80,20,No,For fun
+オールシーズンエアコン,All-Season AC,130,Controls weather locally,Nobita,Nobita,Daily Life,90,10,No,Causes climate chaos
+ロボットペット,Robot Pet,135,Customizable robot pet,Nobita,Nobita,Entertainment,70,30,No,Malfunctions comically
+ウソ800,Lie Detector,140,Detects lies,"Nobita, Shizuka",Shizuka,Daily Life,99,1,No,Highly accurate
+ハッピーメモリーズ,Happy Memories,145,Relives happy memories,Nobita,Nobita,Emotional,100,0,No,Therapeutic
+ドラミのミニドア,Dorami's Mini-Door,150,Smaller Anywhere Door,Dorami,Dorami,Transportation,95,5,Yes,For short distances
+悪用サイコキネシス,Misuse Psychokinesis,155,Moves objects with mind,Nobita,Nobita,Power,50,50,No,Hard to control
+タイムカプセル,Time Capsule,160,Sends objects to future,Nobita,Nobita,Time Travel,85,15,No,Rarely used
+フエルミラー,Clone Mirror,165,Creates duplicates,Nobita,Nobita,Transformation,75,25,No,Clones misbehave
+サンタクロースセット,Santa Set,170,Becomes Santa,Nobita,Nobita,Festive,60,40,No,Seasonal gadget
+ペットなりきりキャップ,Pet Impersonator Cap,175,Talk to animals,Nobita,Nobita,Animal,80,20,No,Short-lived
+ドラえもんの鈴,Doraemon's Bell,1,Summons Doraemon,Nobita,Nobita,Special,100,0,Yes,Last resort
+もしもボックス,What-If Box,180,Simulates alternate realities,Nobita,Nobita,Fantasy,40,60,No,Dangerous if misused
+オールマイティーパス,Almighty Pass,185,Grants access to any place,Nobita,Nobita,Daily Life,85,15,No,Often confiscated by adults
+ネコ型ロボット育成セット,Cat Robot Kit,190,Raises a robot cat,Nobita,Nobita,Technology,50,50,No,Backfires hilariously
+透明マント,Invisibility Cloak,195,Makes wearer invisible,"Nobita, Gian",Nobita,Stealth,75,25,Yes,Wears off after time
+ペタリンペーパー,Sticky Paper,200,Sticks objects to surfaces,Nobita,Nobita,Daily Life,90,10,No,Hard to remove once stuck
+ウラシマキャンディ,Time Warp Candy,205,Speeds up/slows down time locally,Nobita,Nobita,Time Travel,60,40,No,Causes time paradoxes
+分身フォーク,Clone Fork,210,Creates edible clones of food,"Nobita, Gian",Gian,Food,95,5,Yes,Clones taste identical
+夢風船,Dream Balloon,215,Flies using happy thoughts,"Nobita, Shizuka",Shizuka,Transportation,80,20,No,Pops if user gets sad
+悪魔の彫刻,Devil's Statue,220,Grants wishes with a catch,Nobita,Nobita,Fantasy,30,70,No,Twists wishes dangerously
+人間製造機,Human Maker,225,Creates temporary clones,Nobita,Nobita,Technology,40,60,No,Clones rebel often
+のび太の0点テスト,Nobita's Zero-Score Test,230,Changes test answers,Nobita,Nobita,Education,10,90,No,Always caught by teacher
+恐怖のパンティー,Terror Panties,235,Scares anyone who sees them,Gian,Gian,Prank,99,1,No,Used for bullying
+あやとり世界入り,String Portal,240,Enters a world inside string art,"Nobita, Shizuka",Shizuka,Fantasy,70,30,No,Easy to get lost
+ロボットがみ,Robot Hair,245,Hair that acts like hands,Nobita,Nobita,Daily Life,65,35,No,Gets tangled often
+地震訓練紙,Earthquake Training Paper,250,Simulates earthquakes,Nobita,Nobita,Training,55,45,No,Causes real panic
+クモの糸ロープ,Spider Silk Rope,255,Unbreakable sticky rope,"Nobita, Doraemon",Doraemon,Tool,100,0,Yes,Used for climbing
+雪ふりざいく,Snow Artist,260,Creates snow sculptures instantly,Suneo,Suneo,Entertainment,95,5,No,Melts quickly
+家がロボット,House Robot,265,Turns house into a robot,Nobita's Dad,Nobita,Technology,20,80,No,Chaotic and destructive
+ペンシルミサイル,Pencil Missile,270,Pencil that becomes a missile,Nobita,Nobita,Weapon,85,15,No,Used against bullies
+人間磁石,Human Magnet,275,Attracts people to user,Nobita,Nobita,Daily Life,50,50,No,Causes unwanted crowds
+のび太の恐竜,Nobita's Dinosaur,-,Hatches a pet dinosaur,Nobita,Nobita,Animal,80,20,No,From the movie *Nobita's Dinosaur*
+宇宙タマゴ,Space Egg,280,Grows into a spaceship,Nobita,Nobita,Space,90,10,No,Requires care
+バードキャップ,Bird Cap,285,Grants ability to fly like a bird,Nobita,Nobita,Transportation,70,30,No,Hard to control
+カメレオンクリーム,Chameleon Cream,290,Blends into surroundings,"Nobita, Gian",Gian,Stealth,60,40,No,Washes off easily
+悪魔のカード,Devil's Card,295,Grants dark wishes,Nobita,Nobita,Fantasy,25,75,No,Corrupts the user
+月面探査セット,Moon Exploration Kit,300,Explores the moon,"Nobita, Doraemon",Nobita,Space,95,5,Yes,From *Doraemon: Nobita's Moon Exploration*
+風のバンダナ,Wind Bandana,305,Controls wind direction,Nobita,Nobita,Weather,80,20,No,Causes small tornadoes
+雲コントローラー,Cloud Controller,310,Shapes clouds into objects,Suneo,Suneo,Weather,75,25,No,Requires creativity
+タイムカメラ,Time Camera,315,Takes photos of past/future,Nobita,Nobita,Time Travel,90,10,No,Limited uses
+人間あやつり機,Human Puppeteer,320,Controls others like puppets,Nobita,Nobita,Power,10,90,No,Highly unethical
+のろいのカメラ,Cursed Camera,325,Curses photographed subjects,Nobita,Nobita,Fantasy,40,60,No,Backfires often
+ジャングルアーム,Jungle Arm,330,Extendable arm for grabbing,Nobita,Nobita,Tool,85,15,Yes,Useful for reaching
+影ふみオイル,Shadow Stomp Oil,335,Traps shadows to immobilize,"Nobita, Gian",Gian,Weapon,70,30,No,Wears off after time
+お天気ボックス,Weather Box,340,Changes local weather,Nobita,Nobita,Weather,88,12,Yes,Causes unintended storms
+コピーリモコン,Copy Remote,345,Duplicates objects,"Nobita, Suneo",Suneo,Technology,60,40,No,Copies degrade over time
+逆転イヤリング,Reverse Earrings,350,Reverses words/actions,Nobita,Nobita,Prank,55,45,No,Causes misunderstandings
+人間ジオラマ,Human Diorama,355,Shrinks people into dioramas,Nobita,Nobita,Fantasy,50,50,No,Risky if lost
+ドラミのポケット,Dorami's Pocket,-,Dorami's 4D pocket,Dorami,Dorami,Special,100,0,Yes,Smaller than Doraemon's
+未来の貯金箱,Future Piggy Bank,360,Grows money over time,Nobita,Nobita,Finance,95,5,No,Requires patience
+悪魔のサイコロ,Devil's Dice,365,Changes reality based on rolls,Nobita,Nobita,Fantasy,20,80,No,Extremely dangerous
+友だちの輪,Friendship Circle,370,Forces friendship bonds,Nobita,Nobita,Social,30,70,No,Unnatural and temporary
+タイムカプセル,Time Capsule,375,Sends objects to the future,Nobita,Nobita,Time Travel,85,15,No,Used for time messages
+逆転クロック,Reverse Clock,380,Reverses time for 5 minutes,Nobita,Nobita,Time Travel,70,30,No,Causes minor chaos
+人間アンテナ,Human Antenna,385,Receives others' thoughts,Nobita,Nobita,Psychic,60,40,No,Overwhelming noise
+夢のチャンネル,Dream Channel,390,Watches others' dreams,"Nobita, Shizuka",Shizuka,Entertainment,90,10,No,Invasion of privacy
+ウソつきンストック,Lie Stockings,395,Forces wearer to lie,Nobita,Nobita,Prank,100,0,No,Hilarious consequences
+運命のパラソル,Fate Umbrella,400,Changes destiny temporarily,Nobita,Nobita,Fantasy,50,50,No,Unpredictable effects
+動物語ヘッドホン,Animal Headphones,405,Talks to animals,Nobita,Nobita,Animal,95,5,Yes,From *Doraemon: Nobita's Animal Planet*
+宇宙クリーム,Space Cream,410,Creates mini-planets,Nobita,Nobita,Space,80,20,No,Gravity issues
+透明インク,Invisible Ink,415,Writes invisible messages,"Nobita, Suneo",Suneo,Daily Life,75,25,No,Reveals under heat
+ガンバルール,Effort Rule,420,Forces hard work,Nobita's Mom,Nobita,Training,40,60,No,Nobita hates it
+ドラミのタイムマシン,Dorami's Time Machine,-,Cute pink time machine,Dorami,Dorami,Time Travel,100,0,Yes,Faster than Doraemon's
+悪魔の契約書,Devil's Contract,425,Grants power for a price,Nobita,Nobita,Fantasy,10,90,No,Extreme consequences
+人間ラジコン,Human RC Controller,430,Controls people remotely,Nobita,Nobita,Power,20,80,No,Highly unethical
+サファリパークセット,Safari Park Set,435,Creates mini-safari,Nobita,Nobita,Animal,85,15,No,Animals escape often
+魔法のランプ,Magic Lamp,440,Genie grants 3 wishes,Nobita,Nobita,Fantasy,30,70,No,Wishes backfire
+影のフレーム,Shadow Frame,445,Traps shadows to control others,Gian,Gian,Weapon,65,35,No,Defeated by light
+のび太の城,Nobita's Castle,450,Builds a castle instantly,Nobita,Nobita,Construction,90,10,No,From *Nobita's Great Adventure*
+四次元くずかご,4D Trash Bin,455,Disposes items into void,Doraemon,Doraemon,Special,100,0,Yes,Irreversible
+天気予報ボード,Weather Board,460,Predicts weather,Nobita's Dad,Nobita,Weather,95,5,No,Rarely wrong
+タイムベルト,Time Belt,465,Time-travels on a path,Nobita,Nobita,Time Travel,80,20,No,Limited range
+超能力チョーク,Psychic Chalk,470,Drawings come to life,Nobita,Nobita,Fantasy,55,45,No,Chaotic creations
+人間プラモデル,Human Model Kit,475,Assembles a clone,Nobita,Nobita,Technology,35,65,No,Clones lack common sense
+のろいのDVD,Cursed DVD,480,Curses viewers,Nobita,Nobita,Fantasy,45,55,No,Based on horror movies
+ドラえもんの耳,Doraemon's Ears,-,Restores Doraemon's ears,Doraemon,Doraemon,Special,99,1,No,Temporary fix
+ペット石鹸,Pet Soap,485,Turns objects into pets,Nobita,Nobita,Animal,70,30,No,Pets are mischievous
+夢のサイコロ,Dream Dice,490,Changes dreams based on rolls,Nobita,Nobita,Fantasy,60,40,No,Nightmares possible
+宇宙クリップ,Space Clip,495,Creates zero-gravity zones,Nobita,Nobita,Space,75,25,No,Floating chaos
+悪魔のハンマー,Devil's Hammer,500,Alters object properties,Nobita,Nobita,Power,50,50,No,Unintended changes
+タイムドライヤー,Time Dryer,505,Ages objects instantly,Nobita,Nobita,Time Travel,65,35,No,Over-dries things
+人間図鑑,Human Encyclopedia,510,Teaches any skill,Nobita,Nobita,Education,85,15,No,Requires effort
+ドラミのポンプ,Dorami's Pump,-,Inflates objects to giant size,Dorami,Dorami,Tool,90,10,No,Used in emergencies
+未来の新聞,Future Newspaper,515,Reads future events,Nobita's Dad,Nobita,Information,95,5,No,Self-fulfilling prophecies
+恐怖の箱,Terror Box,520,Summons user's fears,Nobita,Nobita,Weapon,80,20,No,Traumatizing
+風のたてがみ,Wind Mane,525,Controls storms,Nobita,Nobita,Weather,70,30,No,Dangerous power
+ロボットの種,Robot Seed,530,Grows a robot plant,Nobita,Nobita,Technology,60,40,No,Robots are unruly
+ウソつきボディー,Lie Body,535,Physical lies become real,Nobita,Nobita,Fantasy,40,60,No,Chaotic outcomes
+ドラ焼き製造機,Dorayaki Maker,540,Makes infinite dorayaki,Doraemon,Doraemon,Food,100,0,Yes,Doraemon's favorite
+タイムスコープ,Time Scope,545,Spy on past/future,Nobita,Nobita,Time Travel,90,10,Yes,No interaction
+人間ペーパー,Human Paper,550,Folds into human shapes,Nobita,Nobita,Fantasy,50,50,No,Fragile creations
+四次元ポスト,4D Mailbox,555,Sends letters to past/future,Nobita,Nobita,Time Travel,85,15,No,Delivery delays
+雲のエアコン,Cloud AC,560,Adjusts cloud temperature,Nobita,Nobita,Weather,75,25,No,Climate side effects
+悪魔のレンズ,Devil's Lens,565,Reveals dark truths,Nobita,Nobita,Psychic,30,70,No,Causes paranoia
+ドラミのヘリコ,Dorami's Helicopter,-,Mini helicopter propeller,Dorami,Dorami,Transportation,95,5,Yes,Faster than Hopter
+夢のレンズ,Dream Lens,570,Projects dreams,Shizuka,Shizuka,Entertainment,80,20,No,Artistic use
+人間トランプ,Human Cards,575,Turns people into cards,Nobita,Nobita,Fantasy,45,55,No,Risky to lose cards
+タイムカード,Time Card,580,Freezes time briefly,Nobita,Nobita,Time Travel,99,1,No,Overuse causes fatigue
+ドラえもんのリボン,Doraemon's Ribbon,-,Grants cat-like agility,Doraemon,Doraemon,Power,90,10,No,Temporary boost
+悪魔のパラソル,Devil's Umbrella,585,Curses those underneath,Nobita,Nobita,Fantasy,25,75,No,Irreversible curses
+四次元キャンプセット,4D Camping Set,590,Portable pocket dimension,Nobita,Nobita,Survival,95,5,Yes,From *Nobita's Camping*
+未来のアルバム,Future Album,595,Photos from the future,Nobita,Nobita,Time Travel,85,15,No,Spoilers!
+ドラミのランプ,Dorami's Lamp,-,Mini-genie for small wishes,Dorami,Dorami,Fantasy,70,30,No,Limited power
+悪魔のカメラ,Devil's Camera,600,Steals souls in photos,Nobita,Nobita,Fantasy,10,90,No,Extremely dangerous
+宇宙ヨット,Space Yacht,605,Sails through space,Nobita,Nobita,Space,80,20,No,From *Space Odyssey*
+タイムふうせん,Time Balloon,610,Floats through time,Nobita,Nobita,Time Travel,60,40,No,Unpredictable landing
+ドラえもんのポケット,Doraemon's Pocket,-,Access to 4D pocket,Doraemon,Doraemon,Special,100,0,Yes,Infinite storage
+悪魔のメガホン,Devil's Megaphone,615,Commands become reality,Nobita,Nobita,Power,15,85,No,Words twist dangerously
+四次元たまご,4D Egg,620,Hatches into anything,Nobita,Nobita,Fantasy,50,50,No,Random results
+未来の眼鏡,Future Glasses,625,Sees future outcomes,Nobita,Nobita,Information,90,10,No,Overwhelming data
+ドラミのバッグ,Dorami's Bag,-,Dorami's gadget storage,Dorami,Dorami,Special,100,0,Yes,Smaller than 4D Pocket
+悪魔のサイレン,Devil's Siren,630,Summons disasters,Nobita,Nobita,Weapon,5,95,No,Catastrophic
+宇宙のクリップ,Space Clip,635,Creates wormholes,Nobita,Nobita,Space,70,30,No,Unstable
+タイムアーム,Time Arm,640,Retrieves objects from time,Nobita,Nobita,Time Travel,80,20,No,Risk of paradoxes
+ドラえもんの鈴,Doraemon's Bell,-,Emergency summoning,Nobita,Nobita,Special,100,0,Yes,Last resort
+悪魔のダンス,Devil's Dance,645,Forces others to dance,Nobita,Nobita,Prank,30,70,No,Exhausting
+四次元キャンバス,4D Canvas,650,Paintings become real,Nobita,Nobita,Art,65,35,No,Art comes to life
+未来のラジオ,Future Radio,655,Hears future broadcasts,Nobita,Nobita,Information,85,15,No,Spoilers again!
+ドラミのホイッスル,Dorami's Whistle,-,Summons Dorami,Dorami,Dorami,Special,100,0,Yes,Emergency calls
+悪魔のトランプ,Devil's Cards,660,Cards alter reality,Nobita,Nobita,Fantasy,20,80,No,Chaos ensues
+宇宙のペン,Space Pen,665,Writes in zero-gravity,Nobita,Nobita,Space,95,5,No,NASA-approved!
+タイムストッパー,Time Stopper,670,Pauses time,Nobita,Nobita,Time Travel,99,1,No,Brief duration
+宇宙探検セット,Space Exploration Set,Nobita's Space Heroes (2008),Explores alien planets,"Nobita, Doraemon",Nobita,Space,90,10,No,From the 2008 movie
+進化退化光線,Evolution/Devolution Ray,676,Evolves or devolves lifeforms,Nobita,Nobita,Science,70,30,No,Caused dinosaur chaos in *Nobita's Dinosaur*
+地球破壊爆弾,Earth Destruction Bomb,Nobita's Great Adventure (1982),Theoretical doomsday device,Doraemon,Doraemon,Weapon,0,100,No,Never actually used
+時空振動機,Space-Time Vibrator,Nobita's Little Star Wars (1985),Alters space-time,Nobita,Nobita,Time Travel,40,60,No,Extremely dangerous
+植物改造液,Plant Modifier Fluid,681,Creates sentient plants,Nobita,Nobita,Science,60,40,No,Plants rebel often
+ロボット改造セット,Robot Modification Kit,Nobita and the Steel Troops (1986),Upgrades robots,Nobita,Nobita,Technology,80,20,No,Key plot gadget in *Steel Troops*
+海底鬼ヶ城ロボット,Undersea Demon Castle Robot,Nobita's Great Adventure (1982),Giant underwater robot,Nobita,Nobita,Weapon,95,5,No,Movie-exclusive
+のび太の創世日記,Nobita's Creation Diary,Nobita's Genesis Diary (1995),Creates a micro-universe,Nobita,Nobita,Fantasy,50,50,No,Ethically questionable
+魔法大百科,Magic Encyclopedia,Nobita's Magical Adventure (1996),Teaches real magic,Nobita,Nobita,Fantasy,30,70,No,Spells backfire
+タイムマシン（未来買い物用）,Time Machine (Future Shopping),-,Orders items from the future,Doraemon,Doraemon,Time Travel,100,0,Yes,Used for gadget resupply
+悪魔のパスポート（映画版）,Devil's Passport (Movie),Nobita's Demon (1982),Ultimate wish-granting,Nobita,Nobita,Fantasy,10,90,No,Corrupts the user
+雲の王国建設キット,Cloud Kingdom Kit,Nobita and the Kingdom of Clouds (1992),Builds floating cities,Nobita,Nobita,Construction,85,15,No,From the 1992 movie
+動物惑星改造装置,Animal Planet Device,Nobita's Animal Planet (1990),Terraforms planets,Nobita,Nobita,Space,75,25,No,Creates habitable worlds
+のび太の恐竜（映画版）,Nobita's Dinosaur (Movie),Nobita's Dinosaur (1980),Hatches a pet dinosaur,Nobita,Nobita,Animal,100,0,No,Plesiosaur named 'Pisuke'
+鉄人兵団製造機,Iron Troop Maker,Nobita and the Steel Troops (1986),Mass-produces robots,Nobita,Nobita,Technology,20,80,No,Caused robot uprising
+夢の町創造セット,Dream Town Creator,Nobita's Dream Town (1996),Designs custom towns,Nobita,Nobita,Construction,90,10,No,From the 1996 movie
+海底ハイウェイ,Undersea Highway,Nobita's Undersea Castle (1983),Underwater road system,Nobita,Nobita,Transportation,95,5,No,Movie-exclusive
+宇宙救命ボート,Space Lifeboat,Nobita's Space Heroes (2008),Emergency escape pod,Nobita,Nobita,Space,100,0,No,Used in climax
+タイムパトロール装備,Time Patrol Gear,Nobita's Dinosaur (2006 remake),Time police equipment,Doraemon,Doraemon,Time Travel,99,1,No,From the 2006 remake
+竜のクレヨン,Dragon Crayon,Nobita's Dragon (1991),Drawings become dragons,Nobita,Nobita,Fantasy,60,40,No,Dragons are unpredictable
+のび太の宇宙漂流記,Nobita's Space Drift,Nobita's Spaceblaster (1999),Survives in space,Nobita,Nobita,Space,80,20,No,From *Spaceblaster*
+魔界大冒険装備,Demon World Adventure Gear,Nobita's Demon (1982),Anti-demon weapons,Nobita,Nobita,Fantasy,70,30,No,"Holy water, crosses, etc."
+太陽神の剣,Sword of the Sun God,Nobita's Sun King (2000),Mythical energy blade,Nobita,Nobita,Weapon,95,5,No,From *Sun King*
+海底人変身スーツ,Undersea Person Suit,Nobita's Undersea Castle (1983),Breathe underwater,Nobita,Nobita,Survival,100,0,No,Gills and fins
+宇宙タクシー,Space Taxi,Nobita's Space Odyssey (2009),Interplanetary transport,Nobita,Nobita,Space,90,10,No,From *Space Odyssey*
+タイム犯罪者逮捕セット,Time Criminal Arrest Kit,-,Captures time offenders,Doraemon,Doraemon,Time Travel,100,0,No,Used rarely
+のび太の結婚前夜,Nobita's Wedding Eve,Nobita's Wedding (1999),Sees future marriage,Nobita,Nobita,Time Travel,99,1,No,Emotional episode
+恐竜ハンター装備,Dinosaur Hunter Gear,Nobita's Dinosaur (2006),Tracks dinosaurs,Nobita,Nobita,Adventure,85,15,No,"Infrared, tranquilizers"
+魔界のランタン,Demon World Lantern,Nobita's Demon (1982),Repels demons,Nobita,Nobita,Fantasy,80,20,No,Sacred light
+宇宙海賊の宝,Space Pirate Treasure,Nobita's Space Heroes (2008),Alien technology,Nobita,Nobita,Space,70,30,No,Plot device in movie
+天の川鉄道切符,Milky Way Railway Ticket,Nobita's Galaxy Express (2007),Ride the space train,Nobita,Nobita,Space,100,0,No,From *Galaxy Express*
+海底火山制御装置,Undersea Volcano Controller,Nobita's Undersea Castle (1983),Stabilizes volcanoes,Nobita,Nobita,Science,50,50,No,High-risk gadget
+のび太のアニマル惑星,Nobita's Animal Planet,Nobita's Animal Planet (1990),Communicate with animals,Nobita,Nobita,Animal,95,5,No,From the 1990 movie
+タイム幽霊退治セット,Time Ghost Exorcism Kit,-,Battles time anomalies,Doraemon,Doraemon,Time Travel,60,40,No,Rarely used
+宇宙サッカーボール,Space Soccer Ball,Nobita's Sports (2002),Zero-gravity sports,Nobita,Nobita,Sports,90,10,No,Anti-gravity core
+恐竜飼育キット,Dinosaur Care Kit,Nobita's Dinosaur (2006),Raises baby dinosaurs,Nobita,Nobita,Animal,85,15,No,From the 2006 remake
+魔法のビン,Magic Bottle,Nobita's Magical Adventure (1996),Traps magical creatures,Nobita,Nobita,Fantasy,70,30,No,Genie-style
+太陽系脱出ポッド,Solar System Escape Pod,Nobita's Space Odyssey (2009),Flee planetary disasters,Nobita,Nobita,Space,100,0,No,Emergency use
+ロボット学校セット,Robot School Kit,Nobita and the Steel Troops (1986),Educates robots,Nobita,Nobita,Technology,75,25,No,For AI learning
+海底レストラン,Undersea Restaurant,Nobita's Undersea Castle (1983),Underwater dining,Nobita,Nobita,Food,95,5,No,Bubble dome
+宇宙のじゅうたん,Space Carpet,Nobita's Space Odyssey (2009),Flying space rug,Nobita,Nobita,Space,80,20,No,Like a magic carpet
+タイム警察バッジ,Time Police Badge,-,Authority over time,Doraemon,Doraemon,Time Travel,100,0,No,Ultimate oversight
+のび太の恐竜化石,Nobita's Dinosaur Fossil,Nobita's Dinosaur (1980),Revives ancient life,Nobita,Nobita,Science,60,40,No,Egg fossil
+魔界の地図,Demon World Map,Nobita's Demon (1982),Navigates hell,Nobita,Nobita,Fantasy,90,10,No,Guided quest
+宇宙のペット,Space Pet,Nobita's Space Heroes (2008),Alien companion,Nobita,Nobita,Animal,85,15,No,Cute but powerful
+天気予報ロボット,Weather Robot,Nobita's Weather (2004),Controls climate,Nobita,Nobita,Weather,95,5,No,AI meteorologist
+海底鉱山採掘機,Undersea Mining Machine,Nobita's Undersea Castle (1983),Extracts rare minerals,Nobita,Nobita,Science,70,30,No,Deep-sea drilling
+タイムワープ帽子,Time Warp Hat,-,Brief time jumps,Nobita,Nobita,Time Travel,80,20,No,5-minute limit
+宇宙の植物,Space Plant,Nobita's Green Legend (2008),Alien flora,Nobita,Nobita,Science,65,35,No,Photosynthesis boost
+のび太の海底城,Nobita's Undersea Castle,Nobita's Undersea Castle (1983),Builds underwater bases,Nobita,Nobita,Construction,90,10,No,Movie's namesake
+ロボットアーム,Robot Arm,Nobita and the Steel Troops (1986),Mechanical limb,Nobita,Nobita,Technology,100,0,No,Super strength
+魔法のランプ（映画版）,Magic Lamp (Movie),Nobita's Magical Adventure (1996),Genie with limits,Nobita,Nobita,Fantasy,40,60,No,Three wishes
+宇宙のオルゴール,Space Music Box,Nobita's Space Heroes (2008),Calms alien beasts,Nobita,Nobita,Music,95,5,No,Soothes creatures
+タイムパラドックス修正機,Time Paradox Fixer,-,Repairs timeline errors,Doraemon,Doraemon,Time Travel,99,1,No,Last resort
+海底探検艇,Undersea Explorer,Nobita's Undersea Castle (1983),Mini-submarine,Nobita,Nobita,Transportation,90,10,No,With laser tools
+のび太の宇宙戦争,Nobita's Space War,Nobita's Space Heroes (2008),Battles aliens,Nobita,Nobita,Space,85,15,No,Movie climax
+魔法の杖,Magic Wand,Nobita's Magical Adventure (1996),Casts spells,Nobita,Nobita,Fantasy,50,50,No,Requires skill
+太陽エネルギー集光器,Solar Energy Collector,Nobita's Sun King (2000),Harnesses sunlight,Nobita,Nobita,Science,95,5,No,Powers civilizations
+宇宙の地図,Space Map,Nobita's Space Odyssey (2009),Interstellar navigation,Nobita,Nobita,Space,100,0,No,3D holographic
+タイムストップ時計,Time Stop Watch,-,Pauses time globally,Doraemon,Doraemon,Time Travel,100,0,No,Overpowered
+海底都市キット,Undersea City Kit,Nobita's Undersea Castle (1983),Builds Atlantis,Nobita,Nobita,Construction,80,20,No,From the movie
+宇宙の種,Space Seed,Nobita's Green Legend (2008),Grows planetary forests,Nobita,Nobita,Science,90,10,No,Terraforming
+ロボット修理キット,Robot Repair Kit,Nobita and the Steel Troops (1986),Fixes robots,Nobita,Nobita,Technology,85,15,No,For Jill and friends
+魔法の絵本,Magic Picture Book,Nobita's Magical Adventure (1996),Stories become real,Nobita,Nobita,Fantasy,60,40,No,Unpredictable
+太陽の剣（レプリカ）,Sword of the Sun (Replica),Nobita's Sun King (2000),Copy of the sacred blade,Nobita,Nobita,Weapon,70,30,No,Less powerful
+宇宙ステーションセット,Space Station Kit,Nobita's Space Odyssey (2009),Builds orbital bases,Nobita,Nobita,Space,95,5,No,Miniaturized
+タイムテレビ（映画版）,Time TV (Movie),Nobita's Dinosaur (2006),Watches alternate timelines,Nobita,Nobita,Time Travel,99,1,No,High-definition
+海底ロボット,Undersea Robot,Nobita's Undersea Castle (1983),Deep-sea assistant,Nobita,Nobita,Technology,90,10,No,Helps in construction
+魔法の鏡,Magic Mirror,Nobita's Magical Adventure (1996),Answers questions,Nobita,Nobita,Fantasy,80,20,No,Sarcastic AI
+宇宙服（映画版）,Space Suit (Movie),Nobita's Space Heroes (2008),Advanced EVA gear,Nobita,Nobita,Space,100,0,No,Life support
+タイムマシン（大型）,Time Machine (Large),Nobita's Dinosaur (2006),Group time travel,Nobita,Nobita,Time Travel,100,0,No,Seats 10 people
+海底戦車,Undersea Tank,Nobita's Undersea Castle (1983),Armored submarine,Nobita,Nobita,Weapon,85,15,No,Torpedo-equipped
+魔法のほうき,Magic Broom,Nobita's Magical Adventure (1996),Flying broomstick,Nobita,Nobita,Transportation,75,25,No,Hard to balance
+宇宙の望遠鏡,Space Telescope,Nobita's Space Odyssey (2009),Views distant galaxies,Nobita,Nobita,Science,95,5,No,HD zoom
+タイムパトロールバッジ,Time Patrol Badge,Nobita's Dinosaur (2006),Authority in time,Doraemon,Doraemon,Time Travel,100,0,No,Official use only
+海底通信機,Undersea Communicator,Nobita's Undersea Castle (1983),Talks to sea creatures,Nobita,Nobita,Technology,90,10,No,Dolphin language
+魔法の薬,Magic Potion,Nobita's Magical Adventure (1996),Temporary powers,Nobita,Nobita,Fantasy,50,50,No,Random effects
+宇宙の笛,Space Flute,Nobita's Space Heroes (2008),Summons space whales,Nobita,Nobita,Music,80,20,No,Pacifies aliens
+タイム修正ペン,Time Correction Pen,-,Edits timeline errors,Doraemon,Doraemon,Time Travel,99,1,No,For minor fixes
+海底火山安定剤,Undersea Volcano Stabilizer,Nobita's Undersea Castle (1983),Prevents eruptions,Nobita,Nobita,Science,70,30,No,Last-minute rescue
+四次元ポケット拡張,4D Pocket Expander,Manga Vol. 30,Increases pocket storage capacity,Doraemon,Doraemon,Special,100,0,Yes,Rarely shown
+超合金Z製造機,Super Alloy Z Maker,Nobita and the Steel Troops (1986),Creates indestructible metal,Nobita,Nobita,Technology,95,5,No,Used to rebuild robots
+夢のコイン,Dream Coin,"Episode 1,234",Purchases dream experiences,Nobita,Nobita,Fantasy,80,20,No,Limited uses
+悪魔のサイコロ2,Devil's Dice 2.0,Manga Vol. 42,Advanced reality warping,Nobita,Nobita,Fantasy,15,85,No,Even more unpredictable
+宇宙の釣り竿,Space Fishing Rod,Nobita's Space Odyssey (2009),Catches alien fish,Nobita,Nobita,Space,70,30,No,Zero-gravity fishing
+タイムシールド,Time Shield,-,Protects from timeline changes,Doraemon,Doraemon,Time Travel,100,0,No,Theoretical gadget
+植物翻訳機,Plant Translator,Manga Vol. 18,Communicates with plants,Nobita,Nobita,Science,60,40,No,Plants complain a lot
+ドラミの救急セット,Dorami's First Aid Kit,-,Future medical tools,Dorami,Dorami,Medical,100,0,Yes,Nanobot healing
+影の貯金箱,Shadow Piggy Bank,"Episode 1,578",Saves money from shadows,Nobita,Nobita,Finance,90,10,No,Interest compounds strangely
+未来の消しゴム,Future Eraser,Manga Vol. 25,Erases future events,Nobita,Nobita,Time Travel,40,60,No,Dangerous paradox risk
+宇宙のサッカーボール2,Space Soccer Ball 2.0,Nobita's Space Heroes (2008),Anti-gravity sports,Nobita,Nobita,Sports,95,5,No,Improved version
+悪魔のカメラ2,Devil's Camera 2.0,-,Steals colors from world,Nobita,Nobita,Fantasy,5,95,No,Creates grayscale world
+ドラえもんの鼻,Doraemon's Nose,-,Super-smell sensor,Doraemon,Doraemon,Sensory,100,0,No,Rarely used ability
+四次元干渉機,4D Interferometer,Manga Vol. 37,Detects pocket dimension anomalies,Doraemon,Doraemon,Special,100,0,No,Maintenance tool
+ロボット感情チップ,Robot Emotion Chip,Nobita and the Steel Troops (1986),Grants robots feelings,Nobita,Nobita,Technology,85,15,No,Key to robot uprising
+天気予報ロボット2,Weather Robot 2.0,-,Predicts weather with 100% accuracy,Nobita,Nobita,Weather,100,0,No,Never wrong
+悪魔のパスポート3,Devil's Passport 3.0,-,Unlimited wishes (with bigger consequences),Nobita,Nobita,Fantasy,1,99,No,World-ending potential
+宇宙の凧,Space Kite,Nobita's Space Odyssey (2009),Flies through cosmic winds,Nobita,Nobita,Space,80,20,No,Requires solar wind
+タイムパラドックス中和剤,Time Paradox Neutralizer,-,Prevents timeline collapses,Doraemon,Doraemon,Time Travel,99,1,No,Last-resort gadget
+ドラミのタイムストップ,Dorami's Time Stop,-,Pauses time for 1 hour,Dorami,Dorami,Time Travel,100,0,No,More stable than Doraemon's
+四次元冷蔵庫,4D Refrigerator,Manga Vol. 41,Infinite food storage,Doraemon,Doraemon,Food,100,0,Yes,Keeps dorayaki fresh
+悪魔のメガホン2,Devil's Megaphone 2.0,-,Reality warping with echo effect,Nobita,Nobita,Fantasy,10,90,No,Echoes cause chaos
+宇宙の望遠鏡2,Space Telescope 2.0,-,Views parallel universes,Nobita,Nobita,Science,95,5,No,Mind-bending visuals
+タイムテレビPro,Time TV Pro,-,Interacts with past/future,Doraemon,Doraemon,Time Travel,90,10,No,Risk of contamination
+ドラえもんのヒゲ,Doraemon's Whiskers,-,Ultimate sensor system,Doraemon,Doraemon,Sensory,100,0,Yes,Detects everything
+悪魔のトランプ2,Devil's Cards 2.0,-,Reality-warping poker,Nobita,Nobita,Fantasy,20,80,No,Wild card destroys reality
+宇宙の種2,Space Seed 2.0,Nobita's Green Legend (2008),Grows habitable planets,Nobita,Nobita,Space,85,15,No,Takes 1000 years
+タイムマシンMini,Time Machine Mini,-,Personal time travel watch,Doraemon,Doraemon,Time Travel,95,5,Yes,Limited to 1 passenger
+四次元掃除機,4D Vacuum,Manga Vol. 44,Cleans pocket dimensions,Doraemon,Doraemon,Special,100,0,No,Maintenance only
+悪魔のランプ2,Devil's Lamp 2.0,-,Genie with twisted interpretations,Nobita,Nobita,Fantasy,5,95,No,Literal wish fulfillment
+宇宙のペン2,Space Pen 2.0,-,Writes in any dimension,Nobita,Nobita,Space,100,0,No,Ink never runs out
+タイムストッパー2,Time Stopper 2.0,-,Pauses time for 24 hours,Doraemon,Doraemon,Time Travel,100,0,No,Overheats after use
+ドラミの四次元ポケット,Dorami's 4D Pocket,-,Smaller dimensional storage,Dorami,Dorami,Special,100,0,Yes,Less capacity
+悪魔のサイコロ3,Devil's Dice 3.0,-,Multiversal randomization,Nobita,Nobita,Fantasy,0,100,No,Do not roll
+宇宙のブランコ,Space Swing,Nobita's Space Odyssey (2009),Swings between planets,Nobita,Nobita,Space,75,25,No,Orbital mechanics required
+タイム修正液,Time Correction Fluid,-,Erases minor timeline errors,Doraemon,Doraemon,Time Travel,90,10,No,For small paradoxes
+四次元アイス,4D Ice,Manga Vol. 47,Never melts,Doraemon,Doraemon,Food,100,0,Yes,Perfect for drinks
+悪魔のパスポートUltimate,Devil's Passport Ultimate,-,Absolute omnipotence,Nobita,Nobita,Fantasy,0.1,99.9,No,Plot device only
+宇宙の笛2,Space Flute 2.0,-,Controls cosmic entities,Nobita,Nobita,Music,60,40,No,Risk of angering gods
+タイムマシンXL,Time Machine XL,-,Group time travel bus,Doraemon,Doraemon,Time Travel,100,0,No,For class trips
+ドラえもんの鈴2,Doraemon's Bell 2.0,-,Summons alternate Doraemons,Nobita,Nobita,Special,95,5,No,Multiversal help
+悪魔のカメラ3,Devil's Camera 3.0,-,Steals concepts from reality,Nobita,Nobita,Fantasy,0,100,No,Do not click
+宇宙の種3,Space Seed 3.0,-,Grows black holes,Nobita,Nobita,Space,10,90,No,Extremely dangerous
+タイムパトロール制服,Time Patrol Uniform,-,Official time police gear,Doraemon,Doraemon,Time Travel,100,0,No,Complete immunity
+四次元ポケットPro,4D Pocket Pro,-,AI-managed storage,Doraemon,Doraemon,Special,100,0,Yes,Auto-organizing
+悪魔のメガホン3,Devil's Megaphone 3.0,-,Reality overwrite,Nobita,Nobita,Fantasy,0.01,99.99,No,Do not speak
+宇宙の絵の具,Space Paint,-,Creates miniature stars,Nobita,Nobita,Art,80,20,No,Handle with care
+タイムテレビUltra,Time TV Ultra,-,Alters past/future broadcasts,Doraemon,Doraemon,Time Travel,50,50,No,Extreme risk
+ドラミの救急セット2,Dorami's First Aid Kit 2.0,-,Revives extinct species,Dorami,Dorami,Medical,100,0,No,Ethical concerns
+悪魔のサイコロ4,Devil's Dice 4.0,-,Multiversal collapse,Nobita,Nobita,Fantasy,0,100,No,Sealed by Time Patrol
+宇宙の折り紙,Space Origami,-,Folds spacetime,Nobita,Nobita,Science,90,10,No,Creates wormholes
+タイムマシンNano,Time Machine Nano,-,Microscopic time travel,Doraemon,Doraemon,Time Travel,99,1,No,For quantum observation
+四次元ポケットNano,4D Pocket Nano,-,Subatomic storage,Doraemon,Doraemon,Special,100,0,Yes,Theoretical
+悪魔のパスポートNano,Devil's Passport Nano,-,Quantum-scale wish granting,Nobita,Nobita,Fantasy,0.001,99.999,No,Do not observe
+宇宙の種Nano,Space Seed Nano,-,Creates pocket universes,Nobita,Nobita,Space,5,95,No,Big bang risk
+タイムパトロールNano,Time Patrol Nano,-,Quantum timeline protection,Doraemon,Doraemon,Time Travel,100,0,No,Against micro-paradoxes
+ドラえもんの鈴Nano,Doraemon's Bell Nano,-,Quantum entanglement summoning,Nobita,Nobita,Special,90,10,No,Multiversal echo
+悪魔のカメラNano,Devil's Camera Nano,-,Erases quantum states,Nobita,Nobita,Fantasy,0,100,No,Reality collapse
+宇宙の笛Nano,Space Flute Nano,-,Controls quantum vibrations,Nobita,Nobita,Music,50,50,No,Schrödinger's melody
+タイムマシンUltra,Time Machine Ultra,-,Transcends timelines,Doraemon,Doraemon,Time Travel,100,0,No,Final resort
+四次元ポケットUltra,4D Pocket Ultra,-,Contains multiverses,Doraemon,Doraemon,Special,100,0,Yes,Theoretical maximum
+悪魔のパスポートFinal,Devil's Passport Final,-,Absolute omnipotence+,Nobita,Nobita,Fantasy,0,100,No,Sealed by all Doraemons
+宇宙の種Final,Space Seed Final,-,Creates omniverses,Nobita,Nobita,Space,0,100,No,Do not plant
+タイムパトロールFinal,Time Patrol Final,-,Absolute timeline authority,Doraemon,Doraemon,Time Travel,100,0,No,End of fiction
+ドラえもんの鈴Final,Doraemon's Bell Final,-,Summons the author,Nobita,Nobita,Meta,100,0,No,Breaks fourth wall
+悪魔のカメラFinal,Devil's Camera Final,-,Erases narratives,Nobita,Nobita,Meta,0,100,No,Deletes stories
+宇宙の笛Final,Space Flute Final,-,Sings reality into being,Nobita,Nobita,Meta,100,0,No,Creation myth
+タイムマシンFinal,Time Machine Final,-,Transcends storytelling,Doraemon,Doraemon,Meta,100,0,No,Beyond canon
+四次元ポケットFinal,4D Pocket Final,-,Contains all fiction,Doraemon,Doraemon,Meta,100,0,Yes,The ultimate gadget
+ドラえもん自身,Doraemon Himself,-,The ultimate problem-solver,Everyone,Nobita,Special,100,0,Yes,"Not a gadget, but the heart of it all"
+四次元ポケットAI,4D Pocket AI,Manga Vol. 50,AI-managed pocket dimension,Doraemon,Doraemon,Special,100,0,Yes,Auto-organizes gadgets
+感情転送機,Emotion Transmitter,"Episode 1,800",Transfers feelings to others,Nobita,Nobita,Psychic,70,30,No,Often causes misunderstandings
+悪魔の鏡,Devil's Mirror,Manga Vol. 45,Shows darkest desires,Nobita,Nobita,Fantasy,20,80,No,Corrupts the viewer
+宇宙の水族館,Space Aquarium,Nobita's Space Heroes (2008),Holds alien sea creatures,Nobita,Nobita,Space,90,10,No,Zero-gravity tank
+タイムテープ,Time Tape,-,Repairs timeline tears,Doraemon,Doraemon,Time Travel,95,5,No,For minor paradoxes
+ドラミのタイムマシン2,Dorami's Time Machine 2.0,-,Upgraded pink time machine,Dorami,Dorami,Time Travel,100,0,Yes,Faster and cuter
+悪魔のサイコロ5,Devil's Dice 5.0,-,Alternate dimension creation,Nobita,Nobita,Fantasy,0,100,No,Sealed by Future Govt
+植物戦士生成機,Plant Warrior Generator,Manga Vol. 52,Creates plant-based soldiers,Nobita,Nobita,Weapon,60,40,No,Used in one adventure
+宇宙のオーケストラ,Space Orchestra,-,Music controls celestial bodies,Nobita,Nobita,Music,80,20,No,Requires perfect pitch
+タイムパラドックスシールド,Time Paradox Shield,-,Protects from erasure,Doraemon,Doraemon,Time Travel,100,0,No,For major timeline changes
+四次元冷凍庫,4D Freezer,Manga Vol. 55,Preserves items eternally,Doraemon,Doraemon,Food,100,0,Yes,For rare ingredients
+悪魔の絵の具,Devil's Paint,-,Paintings absorb real objects,Nobita,Nobita,Art,30,70,No,Victims trapped in canvas
+ドラえもんの目,Doraemon's Eyes,-,X-ray and telescopic vision,Doraemon,Doraemon,Sensory,100,0,Yes,Built-in feature
+宇宙のチェス,Space Chess,-,Play with alien pieces,Nobita,Nobita,Game,95,5,No,Pieces move themselves
+タイムカプセルPro,Time Capsule Pro,-,Sends memories to future,Nobita,Nobita,Time Travel,90,10,No,Emotional delivery
+悪魔のカメラ4,Devil's Camera 4.0,-,"Steals 'concepts' (e.g., color)",Nobita,Nobita,Fantasy,0,100,No,Reality unravels
+分子再構成機,Molecular Rebuilder,Manga Vol. 60,Rearranges matter,Doraemon,Doraemon,Science,85,15,No,Turn lead to gold
+ドラミの救急セット3,Dorami's First Aid Kit 3.0,-,Cures fictional diseases,Dorami,Dorami,Medical,100,0,No,Even 'plot sickness'
+夢の図書館,Dream Library,-,Read others' dreams as books,Nobita,Nobita,Psychic,75,25,No,Privacy issues
+四次元望遠鏡,4D Telescope,-,See through dimensions,Doraemon,Doraemon,Special,100,0,Yes,Pocket maintenance
+悪魔のパスポートNEO,Devil's Passport NEO,-,Reality editing with clauses,Nobita,Nobita,Fantasy,0.5,99.5,No,Fine print disasters
+宇宙の盆栽,Space Bonsai,-,Grows miniature galaxies,Nobita,Nobita,Space,70,30,No,Requires cosmic care
+タイムストップウォッチ2,Time Stop Watch 2.0,-,Pauses time selectively,Doraemon,Doraemon,Time Travel,100,0,No,Only affects targets
+ドラえもんのポケット2,Doraemon's Pocket 2.0,-,Indexed 4D storage,Doraemon,Doraemon,Special,100,0,Yes,Faster retrieval
+悪魔のトランプ3,Devil's Cards 3.0,-,Card games alter destinies,Nobita,Nobita,Fantasy,10,90,No,Losing = catastrophe
+人工知能育成キット,AI Growth Kit,Manga Vol. 65,Raises friendly AI,Nobita,Nobita,Technology,50,50,No,Robot rebellion risk
+宇宙の将棋,Space Shogi,-,Interstellar strategy game,Nobita,Nobita,Game,90,10,No,Aliens cheat
+タイムパトロールバッジ2,Time Patrol Badge 2.0,-,Authority over multiverses,Doraemon,Doraemon,Time Travel,100,0,No,Supreme rank
+四次元掃除ロボ,4D Cleaning Robot,-,Organizes pocket dimensions,Doraemon,Doraemon,Special,100,0,Yes,Automatic maintenance
+悪魔のランプ3,Devil's Lamp 3.0,-,Genie interprets wishes literally,Nobita,Nobita,Fantasy,1,99,No,Be careful what you wish for'
+ドラミのタイムマシン3,Dorami's Time Machine 3.0,-,Time travel with family seating,Dorami,Dorami,Time Travel,100,0,Yes,Child-safe
+宇宙の折り鶴,Space Origami Crane,-,Flies between stars,Nobita,Nobita,Space,80,20,No,Solar wind powered
+タイムテープ2,Time Tape 2.0,-,Mends reality fractures,Doraemon,Doraemon,Time Travel,95,5,No,For major paradoxes
+悪魔のメガホン4,Devil's Megaphone 4.0,-,Voice commands rewrite physics,Nobita,Nobita,Fantasy,0.1,99.9,No,Do not whisper
+分子クッキー,Molecular Cookie,Manga Vol. 70,Changes eater's composition,Nobita,Nobita,Food,60,40,No,Turn into gas/light/etc.
+ドラえもんの鈴3,Doraemon's Bell 3.0,-,Summons parallel Doraemons,Nobita,Nobita,Special,95,5,No,Multiverse team-up
+四次元ポケットGPS,4D Pocket GPS,-,Tracks lost gadgets,Doraemon,Doraemon,Special,100,0,Yes,Finds anything
+悪魔のサイコロ6,Devil's Dice 6.0,-,Creates/destroys universes,Nobita,Nobita,Fantasy,0,100,No,Cosmic Russian roulette
+宇宙の碁,Space Go,-,Play on star-based board,Nobita,Nobita,Game,85,15,No,Black holes as stones
+タイムパラドックスワクチン,Time Paradox Vaccine,-,Immunizes against timeline changes,Doraemon,Doraemon,Time Travel,100,0,No,For historians
+ドラミの四次元ポケット2,Dorami's 4D Pocket 2.0,-,Improved storage capacity,Dorami,Dorami,Special,100,0,Yes,Still smaller than Doraemon's
+悪魔のカメラ5,Devil's Camera 5.0,-,Erases 'memories' from reality,Nobita,Nobita,Fantasy,0,100,No,Nobody remembers you
+感情増幅器,Emotion Amplifier,"Episode 2,000",Magnifies feelings 100x,Nobita,Nobita,Psychic,40,60,No,Causes mass hysteria
+四次元冷蔵庫2,4D Fridge 2.0,-,Preserves items across timelines,Doraemon,Doraemon,Food,100,0,Yes,Eat dinosaur steak
+宇宙の将棋2,Space Shogi 2.0,-,Play with nebula pieces,Nobita,Nobita,Game,95,5,No,Supernova checkmate
+タイムマシンNEO,Time Machine NEO,-,Folds spacetime for instant travel,Doraemon,Doraemon,Time Travel,100,0,Yes,No more tunnel
+悪魔のパスポートPro,Devil's Passport Pro,-,Wishes with delayed consequences,Nobita,Nobita,Fantasy,0.2,99.8,No,Time-bomb effects
+ドラえもんのポケット3,Doraemon's Pocket 3.0,-,Voice-activated retrieval,Doraemon,Doraemon,Special,100,0,Yes,Hey Doraemon!'
+分子調理機,Molecular Cooker,-,Creates food from atoms,Nobita,Nobita,Food,90,10,No,Still can't cook well
+四次元掃除機2,4D Vacuum 2.0,-,Sucks up spacetime debris,Doraemon,Doraemon,Special,100,0,Yes,Pocket maintenance
+悪魔のランプ4,Devil's Lamp 4.0,-,Genie with ironic twists,Nobita,Nobita,Fantasy,0.5,99.5,No,Helpful' disasters
+宇宙の笛3,Space Flute 3.0,-,Communicates with quasars,Nobita,Nobita,Music,70,30,No,Very loud
+タイムテレビNEO,Time TV NEO,-,Interactive timeline editing,Doraemon,Doraemon,Time Travel,80,20,No,Extreme caution
+ドラミの救急セット4,Dorami's First Aid Kit 4.0,-,Heals plot holes,Dorami,Dorami,Medical,100,0,No,For bad writing
+悪魔のサイコロ7,Devil's Dice 7.0,-,Reshapes narratives,Nobita,Nobita,Fantasy,0,100,No,Changes genre
+四次元ポケットUltra2,4D Pocket Ultra 2.0,-,Stores concepts,Doraemon,Doraemon,Special,100,0,Yes,Holds 'justice' or 'love'
+感情冷凍機,Emotion Freezer,-,Pauses feelings temporarily,Nobita,Nobita,Psychic,85,15,No,For awkward moments
+宇宙の絵本,Space Picture Book,-,Stories become real in space,Nobita,Nobita,Fantasy,60,40,No,Alien characters escape
+タイムパトロールNEO,Time Patrol NEO,-,Multiverse police,Doraemon,Doraemon,Time Travel,100,0,No,Omniversal jurisdiction
+悪魔のカメラ6,Devil's Camera 6.0,-,Erases 'time' from objects,Nobita,Nobita,Fantasy,0,100,No,Things never age/exist
+ドラえもんの鈴4,Doraemon's Bell 4.0,-,Summons author for help,Nobita,Nobita,Meta,100,0,No,Fourth wall break
+分子楽器,Molecular Instrument,-,Plays atomic structures,Nobita,Nobita,Music,90,10,No,Gold sounds expensive
+四次元冷凍庫3,4D Freezer 3.0,-,Freezes concepts,Doraemon,Doraemon,Special,100,0,Yes,Pause 'hunger'
+悪魔のパスポートUltra,Devil's Passport Ultra,-,Reality overclocking,Nobita,Nobita,Fantasy,0.01,99.99,No,Causes system crash
+宇宙の将棋3,Space Shogi 3.0,-,Play with dark matter,Nobita,Nobita,Game,99,1,No,Black hole pieces
+タイムマシンUltra2,Time Machine Ultra 2.0,-,Travel through fiction,Doraemon,Doraemon,Time Travel,100,0,No,Visit other anime
+ドラミの四次元ポケット3,Dorami's 4D Pocket 3.0,-,"Themed storage (e.g., sweets)",Dorami,Dorami,Special,100,0,Yes,Mostly desserts
+悪魔のランプ5,Devil's Lamp 5.0,-,Genie with memetic hazards,Nobita,Nobita,Fantasy,0,100,No,Wishes corrupt mind
+感情テレポート,Emotion Teleport,-,Sends feelings to others,Nobita,Nobita,Psychic,75,25,No,Unintended crushes
+四次元ポケットNEO,4D Pocket NEO,-,Adaptive dimensional storage,Doraemon,Doraemon,Special,100,0,Yes,Learns preferences
+宇宙のオルゴール2,Space Music Box 2.0,-,Harmonizes cosmic background,Nobita,Nobita,Music,95,5,No,Universal symphony
+タイムパラドックスアーマー,Time Paradox Armor,-,Protects from retcons,Doraemon,Doraemon,Time Travel,100,0,No,Plot armor literalized
+悪魔のサイコロ8,Devil's Dice 8.0,-,Roll for omniversal reset,Nobita,Nobita,Fantasy,0,100,No,Do not touch
+ドラえもんのポケット4,Doraemon's Pocket 4.0,-,Gadget auto-suggest,Doraemon,Doraemon,Special,100,0,Yes,You might need...'
+分子おもちゃ,Molecular Toy,-,Builds anything atom-by-atom,Nobita,Nobita,Toy,80,20,No,Very slow
+四次元掃除機3,4D Vacuum 3.0,-,Cleans alternate realities,Doraemon,Doraemon,Special,100,0,Yes,Multiversal maid
+悪魔のカメラ7,Devil's Camera 7.0,-,Erases 'existence',Nobita,Nobita,Fantasy,0,100,No,Void itself
+宇宙のチェス2,Space Chess 2.0,-,Play with quantum pieces,Nobita,Nobita,Game,90,10,No,Pieces in superposition
+タイムテレビUltra2,Time TV Ultra 2.0,-,Broadcasts to past/future,Doraemon,Doraemon,Time Travel,85,15,No,Ratings across time
+ドラミの救急セット5,Dorami's First Aid Kit 5.0,-,Cures 'power creep',Dorami,Dorami,Medical,100,0,No,For overused gadgets
+悪魔のパスポートFinal2,Devil's Passport Final 2.0,-,Absolute control over narrative,Nobita,Nobita,Meta,0,100,No,Becomes the author
+感情増幅器2,Emotion Amplifier 2.0,-,Projects feelings globally,Nobita,Nobita,Psychic,20,80,No,Worldwide empathy
+四次元冷蔵庫4,4D Fridge 4.0,-,Preserves 'moments',Doraemon,Doraemon,Special,100,0,Yes,Store childhood
+宇宙の盆栽2,Space Bonsai 2.0,-,Grows pocket universes,Nobita,Nobita,Space,70,30,No,Requires cosmic water
+タイムマシンFinal2,Time Machine Final 2.0,-,Transcends canon,Doraemon,Doraemon,Time Travel,100,0,No,Visit fanfictions
+悪魔のランプFinal,Devil's Lamp Final,-,Genie with no limits,Nobita,Nobita,Fantasy,0,100,No,Reality itself wishes
+ドラえもんの鈴Final2,Doraemon's Bell Final 2.0,-,Summons all Doraemons,Nobita,Nobita,Meta,100,0,No,Omniversal meeting
+分子再構成機2,Molecular Rebuilder 2.0,-,Rewrites physics,Doraemon,Doraemon,Science,95,5,No,Turn light into thought
+四次元ポケットFinal2,4D Pocket Final 2.0,-,Contains all possibilities,Doraemon,Doraemon,Special,100,0,Yes,The answer to everything
+悪魔のサイコロFinal,Devil's Dice Final,-,Roll for reboot,Nobita,Nobita,Meta,0,100,No,Resets franchise
+宇宙の笛Final2,Space Flute Final 2.0,-,Sings new realities,Nobita,Nobita,Music,100,0,No,Creation ex nihilo
+タイムパトロールFinal2,Time Patrol Final 2.0,-,Guards all fiction,Doraemon,Doraemon,Time Travel,100,0,No,Against bad fanfics
+ドラミの四次元ポケットFinal,Dorami's 4D Pocket Final,-,Infinite dessert dimension,Dorami,Dorami,Special,100,0,Yes,Heaven for sweets
+悪魔のカメラFinal2,Devil's Camera Final 2.0,-,Erases fourth wall,Nobita,Nobita,Meta,0,100,No,Audience disappears
+感情転送機Final,Emotion Transmitter Final,-,Share all feelings universally,Nobita,Nobita,Psychic,100,0,No,World becomes one mind
+四次元掃除機Final,4D Vacuum Final,-,Erases plot holes,Doraemon,Doraemon,Special,100,0,Yes,Perfect storytelling
+宇宙の将棋Final,Space Shogi Final,-,Play with omniversal pieces,Nobita,Nobita,Game,100,0,No,God vs. Doraemon
+タイムテレビFinal,Time TV Final,-,Watch all possible timelines,Doraemon,Doraemon,Time Travel,100,0,No,Infinite channels
+悪魔のパスポートΩ,Devil's Passport Omega,-,Control over all fiction,Nobita,Nobita,Meta,0,100,No,Becomes the author
+ドラえもんの心,Doraemon's Heart,-,The ultimate gadget of friendship,Everyone,Everyone,Special,100,0,Yes,"Not a tool, but why he matters"
+四次元ポケットAI 2.0,4D Pocket AI 2.0,Manga Vol. 72,AI with predictive gadget retrieval,Doraemon,Doraemon,Special,100,0,Yes,Learns user habits
+感情記録再生機,Emotion Recorder,"Episode 2,100",Records and replays feelings,Nobita,Nobita,Psychic,85,15,No,Causes emotional overload
+悪魔の日記帳,Devil's Diary,Manga Vol. 48,Written entries become reality,Nobita,Nobita,Fantasy,25,75,No,Grammar errors cause disasters
+宇宙の万華鏡,Space Kaleidoscope,Nobita's Space Heroes (2008),Views parallel dimensions,Nobita,Nobita,Space,90,10,No,Mind-bending visuals
+タイムシーインググラス,Time Seeing Glasses,-,See temporal ripples,Doraemon,Doraemon,Time Travel,95,5,No,Detects timeline changes
+ドラミのメンテナンスキット,Dorami's Maintenance Kit,-,Repairs future tech,Dorami,Dorami,Technology,100,0,Yes,For robot tune-ups
+悪魔のサイコロ9,Devil's Dice 9.0,-,Shuffles universal constants,Nobita,Nobita,Fantasy,0,100,No,Physics stop working
+植物言語翻訳機,Plant Language Translator,Manga Vol. 54,Talks to plants in detail,Nobita,Nobita,Science,70,30,No,Plants are very opinionated
+宇宙の風鈴,Space Wind Chime,-,Plays music from cosmic winds,Nobita,Nobita,Music,80,20,No,Black hole bass notes
+タイムパラドックス緩衝材,Time Paradox Buffer,-,Absorbs timeline shocks,Doraemon,Doraemon,Time Travel,100,0,No,Prevents history whiplash
+四次元冷蔵庫5,4D Fridge 5.0,-,Preserves items across realities,Doraemon,Doraemon,Food,100,0,Yes,Alternate universe sushi
+悪魔の色鉛筆,Devil's Colored Pencils,-,Drawings alter their subjects,Nobita,Nobita,Art,30,70,No,Fixes' turn monstrous
+ドラえもんの耳2,Doraemon's Ears 2.0,-,Enhanced hearing sensors,Doraemon,Doraemon,Sensory,100,0,Yes,Hear through dimensions
+宇宙の双六,Space Sugoroku,-,Board game with real planets,Nobita,Nobita,Game,95,5,No,Win a solar system
+タイムカプセルUltra,Time Capsule Ultra,-,Sends physical objects to past/future,Nobita,Nobita,Time Travel,90,10,No,Package delivery across time
+悪魔のカメラ8,Devil's Camera 8.0,-,Erases 'space' from objects,Nobita,Nobita,Fantasy,0,100,No,Things exist nowhere
+分子ファッション,Molecular Fashion,Manga Vol. 62,Clothes that change material,Shizuka,Shizuka,Daily Life,90,10,No,Dress becomes water/light/etc.
+ドラミの救急セット6,Dorami's First Aid Kit 6.0,-,Cures 'out-of-character' moments,Dorami,Dorami,Medical,100,0,No,For bad writing days
+夢のレンズ2,Dream Lens 2.0,-,Projects collective dreams,Nobita,Nobita,Psychic,75,25,No,Shared hallucinations
+四次元望遠鏡2,4D Telescope 2.0,-,See through time and space,Doraemon,Doraemon,Special,100,0,Yes,Pocket surveillance
+悪魔のパスポートNEO2,Devil's Passport NEO2,-,Wishes with poetic irony,Nobita,Nobita,Fantasy,0.3,99.7,No,Beauty in destruction'
+宇宙の苔玉,Space Moss Ball,-,Contains mini-ecosystems,Nobita,Nobita,Space,70,30,No,Grows alien flora
+タイムストップウォッチ3,Time Stop Watch 3.0,-,Pauses time in selected areas,Doraemon,Doraemon,Time Travel,100,0,No,Frozen' zones
+ドラえもんのポケット5,Doraemon's Pocket 5.0,-,Voice-controlled dimensional access,Doraemon,Doraemon,Special,100,0,Yes,"Hey Doraemon, get...'"
+悪魔のトランプ4,Devil's Cards 4.0,-,Card games rewrite history,Nobita,Nobita,Fantasy,5,95,No,Joker card ends reality
+人工知能育成キット2,AI Growth Kit 2.0,Manga Vol. 68,Raises AI with emotions,Nobita,Nobita,Technology,40,60,No,Robots develop anxiety
+宇宙のチェス3,Space Chess 3.0,-,Play with dark energy pieces,Nobita,Nobita,Game,90,10,No,Checkmate collapses stars
+タイムパトロールバッジ3,Time Patrol Badge 3.0,-,Authority over narratives,Doraemon,Doraemon,Time Travel,100,0,No,Can edit stories
+四次元掃除ロボ2,4D Cleaning Robot 2.0,-,Organizes multiversal clutter,Doraemon,Doraemon,Special,100,0,Yes,Fixes crossover events
+悪魔のランプ6,Devil's Lamp 6.0,-,Genie with existential dread,Nobita,Nobita,Fantasy,0.2,99.8,No,Why do we exist?'
+ドラミのタイムマシン4,Dorami's Time Machine 4.0,-,Time travel with safety protocols,Dorami,Dorami,Time Travel,100,0,Yes,Child locks enabled
+宇宙の折り紙2,Space Origami 2.0,-,Folds spacetime precisely,Nobita,Nobita,Space,80,20,No,Create wormhole art
+タイムテープ3,Time Tape 3.0,-,Repairs major timeline tears,Doraemon,Doraemon,Time Travel,95,5,No,For continuity errors
+悪魔のメガホン5,Devil's Megaphone 5.0,-,Voice becomes physical force,Nobita,Nobita,Fantasy,0.1,99.9,No,Whisper destroys cities
+分子お菓子,Molecular Candy,Manga Vol. 73,Changes eater's properties,Nobita,Nobita,Food,60,40,No,Turn into light/stone/etc.
+ドラえもんの鈴5,Doraemon's Bell 5.0,-,Summons genre-specific Doraemons,Nobita,Nobita,Special,95,5,No,"e.g., 'Sci-Fi Doraemon'"
+四次元ポケットGPS2,4D Pocket GPS 2.0,-,Tracks lost items across time,Doraemon,Doraemon,Special,100,0,Yes,Find anything ever lost
+悪魔のサイコロ10,Devil's Dice 10.0,-,Chooses between multiverses,Nobita,Nobita,Fantasy,0,100,No,All options are bad
+宇宙の碁2,Space Go 2.0,-,Play with neutron stars,Nobita,Nobita,Game,85,15,No,Gravity affects pieces
+タイムパラドックスワクチン2,Time Paradox Vaccine 2.0,-,Immunizes against retcons,Doraemon,Doraemon,Time Travel,100,0,No,For comic book readers
+ドラミの四次元ポケット4,Dorami's 4D Pocket 4.0,-,Themed storage (emergencies),Dorami,Dorami,Special,100,0,Yes,Always right gadget
+悪魔のカメラ9,Devil's Camera 9.0,-,Erases 'meaning' from objects,Nobita,Nobita,Fantasy,0,100,No,Things become abstract
+感情増幅器3,Emotion Amplifier 3.0,-,Projects feelings physically,Nobita,Nobita,Psychic,30,70,No,Anger becomes fire
+四次元冷蔵庫6,4D Fridge 6.0,-,Preserves 'ideas',Doraemon,Doraemon,Special,100,0,Yes,Store forgotten thoughts
+宇宙の将棋4,Space Shogi 4.0,-,Play with quasar pieces,Nobita,Nobita,Game,95,5,No,Time dilation effects
+タイムマシンNEO2,Time Machine NEO2,-,Folds narratives for travel,Doraemon,Doraemon,Time Travel,100,0,Yes,Jump between stories
+悪魔のパスポートPro2,Devil's Passport Pro2,-,Wishes with dramatic irony,Nobita,Nobita,Fantasy,0.15,99.85,No,Be careful what you wish'
+ドラえもんのポケット6,Doraemon's Pocket 6.0,-,Auto-adapts to user needs,Doraemon,Doraemon,Special,100,0,Yes,I was just looking for that!'
+分子調理機2,Molecular Cooker 2.0,-,Creates food from imagination,Nobita,Nobita,Food,90,10,No,Still burns water
+四次元掃除機4,4D Vacuum 4.0,-,Cleans conceptual clutter,Doraemon,Doraemon,Special,100,0,Yes,Removes plot holes
+悪魔のランプ7,Devil's Lamp 7.0,-,Genie with philosophical traps,Nobita,Nobita,Fantasy,0.1,99.9,No,What is happiness?'
+宇宙の笛4,Space Flute 4.0,-,Communicates with dimensions,Nobita,Nobita,Music,70,30,No,Harmonic vibrations
+タイムテレビNEO2,Time TV NEO2,-,Edits show reruns,Doraemon,Doraemon,Time Travel,80,20,No,Improve' old episodes
+ドラミの救急セット7,Dorami's First Aid Kit 7.0,-,Cures 'jumping the shark',Dorami,Dorami,Medical,100,0,No,For declining quality
+悪魔のサイコロ11,Devil's Dice 11.0,-,Resets character development,Nobita,Nobita,Fantasy,0,100,No,Back to episode 1
+四次元ポケットUltra3,4D Pocket Ultra3,-,Stores 'potential',Doraemon,Doraemon,Special,100,0,Yes,All possible gadgets
+感情冷凍機2,Emotion Freezer 2.0,-,Pauses specific feelings,Nobita,Nobita,Psychic,85,15,No,No anger for 1 hour'
+宇宙の絵本2,Space Picture Book 2.0,-,Stories become real in 4D,Nobita,Nobita,Fantasy,60,40,No,Characters escape books
+タイムパトロールNEO2,Time Patrol NEO2,-,Guards narrative integrity,Doraemon,Doraemon,Time Travel,100,0,No,Against bad retcons
+悪魔のカメラ10,Devil's Camera 10.0,-,Erases 'genre' from reality,Nobita,Nobita,Fantasy,0,100,No,World becomes bland
+ドラえもんの鈴6,Doraemon's Bell 6.0,-,Summons creators for advice,Nobita,Nobita,Meta,100,0,No,Break fourth wall
+分子楽器2,Molecular Instrument 2.0,-,Plays quantum states,Nobita,Nobita,Music,90,10,No,Schrödinger's symphony
+四次元冷凍庫4,4D Freezer 4.0,-,Freezes 'themes',Doraemon,Doraemon,Special,100,0,Yes,Pause 'coming of age'
+悪魔のパスポートUltra2,Devil's Passport Ultra2,-,Reality overclocking 2.0,Nobita,Nobita,Fantasy,0.005,99.995,No,System failure imminent
+宇宙の将棋5,Space Shogi 5.0,-,Play with cosmic strings,Nobita,Nobita,Game,99,1,No,Universe as board
+タイムマシンUltra3,Time Machine Ultra3,-,Travel through fan theories,Doraemon,Doraemon,Time Travel,100,0,No,Visit headcanons
+ドラミの四次元ポケット5,Dorami's 4D Pocket 5.0,-,Themed storage (festivals),Dorami,Dorami,Special,100,0,Yes,Seasonal gadgets
+悪魔のランプ8,Devil's Lamp 8.0,-,Genie with narrative awareness,Nobita,Nobita,Fantasy,0,100,No,This is just a story'
+感情テレポート2,Emotion Teleport 2.0,-,Sends feelings to fiction,Nobita,Nobita,Psychic,75,25,No,Make characters cry
+四次元ポケットNEO2,4D Pocket NEO2,-,Adaptive to plot needs,Doraemon,Doraemon,Special,100,0,Yes,Deus ex machina
+宇宙のオルゴール3,Space Music Box 3.0,-,Harmonizes multiverses,Nobita,Nobita,Music,95,5,No,Theme song plays
+タイムパラドックスアーマー2,Time Paradox Armor 2.0,-,Protects from reboots,Doraemon,Doraemon,Time Travel,100,0,No,No retcons allowed
+悪魔のサイコロ12,Devil's Dice 12.0,-,Roll for franchise renewal,Nobita,Nobita,Fantasy,0,100,No,Studio executives
+ドラえもんのポケット7,Doraemon's Pocket 7.0,-,Contains perfect gadget,Doraemon,Doraemon,Special,100,0,Yes,For any situation
+分子おもちゃ2,Molecular Toy 2.0,-,Builds with dark matter,Nobita,Nobita,Toy,80,20,No,Invisible structures
+四次元掃除機5,4D Vacuum 5.0,-,Cleans fan controversies,Doraemon,Doraemon,Special,100,0,Yes,Erases plotholes
+悪魔のカメラ11,Devil's Camera 11.0,-,Erases 'canon',Nobita,Nobita,Fantasy,0,100,No,Nothing matters
+宇宙のチェス4,Space Chess 4.0,-,Play with narrative tropes,Nobita,Nobita,Game,90,10,No,Checkmate the hero
+タイムテレビUltra3,Time TV Ultra3,-,Watch deleted scenes,Doraemon,Doraemon,Time Travel,85,15,No,Director's cut
+ドラミの救急セット8,Dorami's First Aid Kit 8.0,-,Cures 'Flanderization',Dorami,Dorami,Medical,100,0,No,For character decay
+悪魔のパスポートFinal3,Devil's Passport Final3,-,Control over all fiction,Nobita,Nobita,Meta,0,100,No,Becomes the author
+感情増幅器4,Emotion Amplifier 4.0,-,Projects feelings into reality,Nobita,Nobita,Psychic,20,80,No,World becomes emotion
+四次元冷蔵庫7,4D Fridge 7.0,-,Preserves 'magic',Doraemon,Doraemon,Special,100,0,Yes,Store fairy tales
+宇宙の盆栽3,Space Bonsai 3.0,-,Grows narrative branches,Nobita,Nobita,Space,70,30,No,Prune bad plots
+タイムマシンFinal3,Time Machine Final3,-,Transcends all fiction,Doraemon,Doraemon,Time Travel,100,0,No,Visit any story
+悪魔のランプFinal2,Devil's Lamp Final2,-,Genie with no limits,Nobita,Nobita,Fantasy,0,100,No,Reality itself wishes
+ドラえもんの鈴Final3,Doraemon's Bell Final3,-,Summons all fictional characters,Nobita,Nobita,Meta,100,0,No,Crossover event
+分子再構成機3,Molecular Rebuilder 3.0,-,Rewrites tropes,Doraemon,Doraemon,Science,95,5,No,Turn clichés fresh
+四次元ポケットFinal3,4D Pocket Final3,-,Contains all narratives,Doraemon,Doraemon,Special,100,0,Yes,Library of Babel
+悪魔のサイコロFinal2,Devil's Dice Final2,-,Roll for reboot,Nobita,Nobita,Meta,0,100,No,Resets franchise
+宇宙の笛Final3,Space Flute Final3,-,Sings new realities,Nobita,Nobita,Music,100,0,No,Creation ex nihilo
+タイムパトロールFinal3,Time Patrol Final3,-,Guards all fiction,Doraemon,Doraemon,Time Travel,100,0,No,Against bad fanfics
+ドラミの四次元ポケットFinal2,Dorami's 4D Pocket Final2,-,Infinite dessert dimension,Dorami,Dorami,Special,100,0,Yes,Heaven for sweets
+悪魔のカメラFinal3,Devil's Camera Final3,-,Erases fourth wall,Nobita,Nobita,Meta,0,100,No,Audience disappears
+感情転送機Final2,Emotion Transmitter Final2,-,Share all feelings universally,Nobita,Nobita,Psychic,100,0,No,World becomes one mind
+四次元掃除機Final2,4D Vacuum Final2,-,Erases plot holes,Doraemon,Doraemon,Special,100,0,Yes,Perfect storytelling
+宇宙の将棋Final2,Space Shogi Final2,-,Play with omniversal pieces,Nobita,Nobita,Game,100,0,No,God vs. Doraemon
+タイムテレビFinal2,Time TV Final2,-,Watch all possible timelines,Doraemon,Doraemon,Time Travel,100,0,No,Infinite channels
+悪魔のパスポートΩ2,Devil's Passport Omega2,-,Control over all fiction,Nobita,Nobita,Meta,0,100,No,Becomes the author
+ドラえもんの友情,Doraemon's Friendship,-,The ultimate power,Everyone,Everyone,Special,100,0,Yes,Why we love the series
