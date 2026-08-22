@@ -1,0 +1,27 @@
+# FIRST TIME ONLY
+
+git init
+
+# Create .gitignore file and add:
+# *.exe
+# *.out
+# *.o
+
+git add .
+
+git commit -m "Initial Codeforces upload"
+
+git branch -M main
+
+git remote add origin YOUR_REPO_URL
+
+git push -u origin main
+
+
+# FUTURE USE ONLY THESE 3 COMMANDS
+
+git add .
+
+git commit -m "Added new problems"
+
+git push
