@@ -25,3 +25,18 @@ git add .
 git commit -m "Added new problems"
 
 git push
+
+
+
+git switch data
+git add data1.csv data2.csv
+git commit -m "Updated datasets"
+git push origin data
+
+git switch AI
+git add model1.py model2.py
+git commit -m "Updated AI models"
+git push origin AI
+
+
+git branch
