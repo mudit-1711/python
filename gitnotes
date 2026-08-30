@@ -1,11 +1,9 @@
 # FIRST TIME ONLY
-
-git init
-
 # Create .gitignore file and add:
 # *.exe
 # *.out
 # *.o
+git init
 
 git add .
 
