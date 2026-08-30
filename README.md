@@ -1,4 +1,4 @@
-# Python Practice & Learning
+# ML, Python Practice & Learning
 
 This repository serves as my personal workspace to practice Python programming, data science, and machine learning.
 
